@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-ℹ️ This issue is part of Epic #(issue)
+ℹ️ This issue is part of Epic #(epic-issue)
 
 ## Objective
 
