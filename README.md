@@ -2,6 +2,10 @@
 
 Template repository to create new projects for the @kommitters organization.
 
+## Changelog
+
+Features and bug fixes are listed in the [CHANGELOG][changelog] file.
+
 ## Code of conduct
 
 We welcome everyone to contribute. Make sure you have read the [CODE_OF_CONDUCT][coc] before.
@@ -9,10 +13,6 @@ We welcome everyone to contribute. Make sure you have read the [CODE_OF_CONDUCT]
 ## Contributing
 
 For information on how to contribute, please refer to our [CONTRIBUTING][contributing] guide.
-
-## Changelog
-
-Features and bug fixes are listed in the [CHANGELOG][changelog] file.
 
 ## License
 
